@@ -1,2 +1,1 @@
-# streamvault
-Premium streaming platform built with Next.js, Supabase, and Vercel.
+# StreamVault V3\nRun npm install && npm run dev
